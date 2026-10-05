@@ -19,6 +19,11 @@
 ## ⭐ Featured Projects
 
 ---
+### 📍 [CzyPrzejadę](https://github.com/GonsiorHack/HY2026)
+A scalable urban accessibility and mobility platform engineered to guide pedestrians with restricted mobility around architectural obstacles. Combines Computer Vision surface classification with dynamic spatial dual-routing to generate step-free, barrier-conscious transit paths.
+* **Dual-Routing Client & GIS Integration:** Architected the mobile-first frontend in **Svelte** and **Leaflet**, implementing visual route comparisons, geocoding pipelines, and real-time rendering of spatial avoidance polygons (`GeoJSON`).
+* **Full-Stack ML Pipeline:** Bridged asynchronous **FastAPI** backend services with a **MobileNetV2** visual classification engine, transforming street-level terrain analysis into dynamic graph-routing penalty weights.
+* **Resilient Spatial Architecture:** Implemented fallback routing mechanisms and strict geofencing validation to ensure continuous uptime and sub-second calculation speeds across complex urban grids.
 
 ### ♟️ [En Passant](https://github.com/GonsiorHack/tadeusz-kosciuszko-2026.git)
 A gamified educational platform built during a hackathon. As a developer for the "Gonsior" collective, I was responsible for bridging the server-side architecture with the client interface.
