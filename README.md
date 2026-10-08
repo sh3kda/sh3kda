@@ -4,15 +4,7 @@
   <img src="https://img.shields.io/badge/Core_Focus_%26_Specialization-1a1b26?style=for-the-badge&logoColor=white&labelColor=7aa2f7" alt="Core Focus" />
   <p><i>Full Stack web development, API design, and relational databases.</i></p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php,vuejs,svelte,js,py,mysql,linux,git&theme=dark" alt="Core Stack" />
-  </a>
-  
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/Familiar_With_%2F_Tools-1a1b26?style=for-the-badge&logoColor=white&labelColor=7aa2f7" alt="Broad Knowledge" />
-  <p><i>Frameworks, UI prototyping, and low-level tech from my hackathon days:</i></p>
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=laravel,tailwind,figma,bash,cpp&theme=dark" alt="Familiar Stack" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,vuejs,svelte,react,ts,py,mysql,linux,git&theme=dark" alt="Core Stack" />
   </a>
 </div>
 
