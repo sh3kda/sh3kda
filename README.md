@@ -15,8 +15,7 @@
 ## ⭐ Featured Projects
 
 ### 📍 [CzyPrzejadę](https://github.com/GonsiorHack/czyPrzejade) `Startup in Progress`
-> Hackathon project currently scaling into an early-stage startup.
-> <br> **Actively seeking pre-seed investors, municipal partners, and cloud infrastructure sponsors.**
+> **Actively seeking contributors, pre-seed investors, municipal partners and cloud infrastructure sponsors.**
 
 A scalable urban accessibility and micromobility platform engineered to navigate pedestrians with restricted mobility (wheelchair users, seniors, and parents with strollers) around architectural barriers. Combines Computer Vision surface classification with multi-criteria spatial dual-routing to generate step-free transit corridors.
 
