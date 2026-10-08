@@ -10,7 +10,6 @@
 
 ## ⭐ Featured Projects
 
----
 ### 📍 [CzyPrzejadę](https://github.com/GonsiorHack/HY2026)
 A scalable urban accessibility and mobility platform engineered to guide pedestrians with restricted mobility around architectural obstacles. Combines Computer Vision surface classification with dynamic spatial dual-routing to generate step-free, barrier-conscious transit paths.
 * **Dual-Routing Client & GIS Integration:** Architected the mobile-first frontend in **Svelte** and **Leaflet**, implementing visual route comparisons, geocoding pipelines, and real-time rendering of spatial avoidance polygons (`GeoJSON`).
@@ -39,12 +38,3 @@ A comprehensive mobile ecosystem designed to eliminate information asymmetry in 
 
 * **[Ladybird Browser](https://github.com/LadybirdBrowser/ladybird)** — Active contributor to this independent web engine. Translating complex C++ engine mechanics into accessible **technical documentation** to streamline developer onboarding.
 * **<a href ="https://ruj.uj.edu.pl/entities/publication/ea7e3ca4-81f3-4a33-9917-4397976f7241"> Academic Publication </a>** — Author of *"Toxic Communication in Multiplayer Games: A Polish Player's Perspective"*, combining data analysis with media studies.
-
----
-
-## Let's connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/franciszek-dawid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:dawidfranciszek914@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-f7768e?style=for-the-badge&logo=gmail" alt="Mail" /></a>
-</p>
