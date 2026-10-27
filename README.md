@@ -16,7 +16,7 @@
   <p><b>Application & Web Development</b></p>
   <p><i>Modern API design, asynchronous services, typed frontends, and relational data stores.</i></p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,svelte,ts,fastapi,mysql,postgres,docker&theme=dark" alt="Application Stack" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,svelte,ts,fastapi,mysql,postgres&theme=dark" alt="Application Stack" />
   </a>
 </div>
 
