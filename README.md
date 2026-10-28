@@ -22,7 +22,7 @@
 
 ## ⭐ Featured Projects
 
-### 📍 [CzyPrzejadę](https://github.com/GonsiorHack/czyPrzejade) `Flutter • AI learning • GIS & Computer Vision`
+### 📍 [CzyPrzejadę](https://github.com/GonsiorHack/czyPrzejade) `Mobile • AI learning • GIS & Computer Vision`
 > **Urban navigation and accessibility app built for people with reduced mobility.**
 
 Mobile platform that evaluates sidewalk quality, rates urban places (A–F accessibility scale), and calculates barrier-free pedestrian routes.
