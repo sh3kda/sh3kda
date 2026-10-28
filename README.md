@@ -22,6 +22,15 @@
 
 ## ⭐ Featured Projects
 
+### 📍 [CzyPrzejadę](https://github.com/GonsiorHack/czyPrzejade) `Flutter • FastAPI • GIS & Computer Vision`
+> **Urban navigation and accessibility app built for people with reduced mobility.**
+
+Mobile platform that evaluates sidewalk quality, rates urban places (A–F accessibility scale), and calculates barrier-free pedestrian routes.
+- **Native Mobile App (Flutter):** Migrated the client from SvelteKit to **Flutter (iOS/Android)** with an interactive **OpenStreetMap** view, live GPS navigation with compass/heading rotation, voice dictation, and high-contrast UI modes.
+- **Backend & Obstacle Detection:** Built an asynchronous **FastAPI** backend using a **MobileNetV2** model to classify pavement degradation and physical obstacles from street-level photos.
+- **Barrier-Free Routing:** Fed obstacle weights into GIS routing engines (**Valhalla / OSRM / ORS**) to generate safe alternative paths that bypass stairs, high curbs, and damaged surfaces.
+- **Open-Source GIS on Linux:** Replaced paid commercial map APIs with open-source map tiles and routing services deployed on **Linux**.
+
 ### 🦊 [Zora App](https://github.com/twoj-profil/zora-app) `Systems & Algorithmic Performance`
 > **High-performance learning platform pairing native C++ algorithmic execution with a modern GUI.**
 
@@ -30,14 +39,6 @@ Desktop learning application evolved from an academic project, engineered for de
 * **Deterministic Disk Persistence:** Architected a crash-resilient disk serialization layer ensuring data integrity during unexpected process termination while maintaining `<100ms` application cold-start times.
 * **Structured Data Ingestion:** Engineered a strictly typed JSON ingestion pipeline to validate, sanitize, and load large dataset batches generated via LLMs.
 
-### 📍 [CzyPrzejadę](https://github.com/GonsiorHack/czyPrzejade) `Applied Computer Vision & GIS Engine`
-> **Scalable urban accessibility platform combining edge computer vision with multi-criteria spatial routing.**
-
-Micro-mobility platform transforming street-level obstacle imagery into dynamic graph penalties for vulnerable pedestrians.
-* **Full-Stack & Asynchronous Backend:** Engineered asynchronous microservices in **FastAPI** coupled with a lightweight **MobileNetV2** visual classifier to score surface degradation.
-* **Dual-Routing & Spatial Compute:** Integrated classification weights directly into routing engines (**Valhalla / OSRM**), computing alternative transit corridors through spatial avoidance polygons.
-* **Reactive Client:** Built the mobile-first PWA frontend using **Svelte** and **Leaflet** for real-time visualization of route comparisons and geocoded hazard overlays.
-* **Self-Hosted Infrastructure:** Migrated dependencies away from proprietary third-party APIs to self-hosted routing nodes deployed on **Linux**.
 
 ### ♟️ [En Passant](https://github.com/GonsiorHack/tadeusz-kosciuszko-2026.git) `Rapid Architecture & State Logic`
 An educational narrative application developed under strict 24-hour hackathon constraints.
