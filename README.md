@@ -1,28 +1,26 @@
 <p align="center">
-  CS Student | Open to internship opportunities.
+  Student | Open to internship opportunities.
 </p>
 
 <div align="center">
-  <h2>Technical Stack & Competencies</h2>
-
-  <p><b>Core Focus: Systems, Low-Level & Architecture</b></p>
+  <p><b>Core Focus: QA Automation / SDET</b></p>
   <p><i>Systems architecture, Linux environments and automation.</i></p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,linux,bash,git&theme=dark" alt="Core Systems Stack" />
+    <img src="https://skillicons.dev/icons?i=py,linux,bash,git,docker&theme=dark" alt="Core Systems Stack" />
   </a>
 
-  <br/>  <br/>
+  <br/><br/>
 
   <p><b>Application & Web Development</b></p>
-  <p><i> API design, services, typed frontends, relational data stores and mobile development.</i></p>
+  <p><i>Full-stack foundation and pragmatic backend services.</i></p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php,laravel,svelte,ts,fastapi,mysql,postgres,flutter,dart&theme=dark" alt="Application Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,svelte,ts,php,laravel,mysql,fastapi&theme=dark" alt="Application Stack" />
   </a>
 </div>
 
 ## ⭐ Featured Projects
 
-### 📍 [CzyPrzejadę](https://github.com/GonsiorHack/czyPrzejade) `Mobile • AI learning • GIS & Computer Vision`
+### 📍 [CzyPrzejadę](https://github.com/GonsiorHack/czyPrzejade) `Path optimalization • AI learning • GIS`
 > **Urban navigation and accessibility app built for people with reduced mobility.**
 
 Mobile platform that evaluates sidewalk quality, rates urban places (A–F accessibility scale), and calculates barrier-free pedestrian routes.
