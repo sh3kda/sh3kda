@@ -1,24 +1,17 @@
 <p align="center">
-  Student | Open to internship opportunities.
+ Open to internship/junior opportunities | Student
 </p>
 
 <div align="center">
-  <p><b>Core Focus: QA Automation / SDET</b></p>
+  <p><b>Fullstack AI Developer</b></p>
   <p><i>Systems architecture, Linux environments and automation.</i></p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py,linux,bash,git,docker&theme=dark" alt="Core Systems Stack" />
+    <img src="https://skillicons.dev/icons?i=py,linux,bash,svelte,ts&theme=dark" alt="Core Systems Stack" />
   </a>
 
   <br/><br/>
+  </div>
 
-  <p><b>Application & Web Development</b></p>
-  <p><i>Full-stack foundation and pragmatic backend services.</i></p>
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp,svelte,ts,php,laravel,mysql,fastapi&theme=dark" alt="Application Stack" />
-  </a>
-</div>
-
-## ⭐ Featured Projects
 
 ### 📍 [CzyPrzejadę](https://github.com/GonsiorHack/czyPrzejade) `Path optimalization • AI learning • GIS`
 > **Urban navigation and accessibility app built for people with reduced mobility.**
@@ -28,14 +21,6 @@ Mobile platform that evaluates sidewalk quality, rates urban places (A–F acces
 - **Backend & Obstacle Detection:** Built an asynchronous backend using a **MobileNetV2** model to classify pavement degradation and physical obstacles from street-level photos.
 - **Barrier-Free Routing:** Fed obstacle weights into GIS routing engines (**Valhalla / OSRM / ORS**) to generate safe alternative paths that bypass stairs, high curbs, and damaged surfaces.
 - **Open-Source GIS on Linux:** Replaced paid commercial map APIs with open-source map tiles and routing services deployed on Linux.
-
-### 🦊 [Zora App](https://github.com/twoj-profil/zora-app) `Systems & Algorithmic Performance`
-> **High-performance learning platform pairing native C++ algorithmic execution with a modern GUI.**
-
-Desktop learning application evolved from an academic project, engineered for deterministic data storage and sub-millisecond core computations.
-* **Native C++ Execution Layer:** Implemented algorithmic kernels in modern C++, isolating performance-critical string operations (Levenshtein distance) and interval calculations (SM-2 spaced-repetition algorithm).
-* **Deterministic Disk Persistence:** Architected a crash-resilient disk serialization layer ensuring data integrity during unexpected process termination while maintaining `<100ms` application cold-start times.
-* **Structured Data Ingestion:** Engineered a strictly typed JSON ingestion pipeline to validate, sanitize, and load large dataset batches generated via LLMs.
 
 
 ## 📖 Open Source Contributions & Academic Research
