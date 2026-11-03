@@ -6,7 +6,7 @@
   <p><b>Fullstack AI Developer</b></p>
   <p><i>Systems architecture, Linux environments and automation.</i></p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py,linux,bash,svelte,ts&theme=dark" alt="Core Systems Stack" />
+    <img src="https://skillicons.dev/icons?i=py,linux,bash,cs,net,svelte,ts&theme=dark" alt="Core Systems Stack" />
   </a>
 
   <br/><br/>
