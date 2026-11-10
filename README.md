@@ -1,29 +1,22 @@
-<p align="center">
- Open to internship/junior opportunities | Student
-</p>
-
 <div align="center">
-  <p><b>Fullstack AI Developer</b></p>
-  <p><i>Systems architecture, Linux environments and automation.</i></p>
+  <p><b>Fullstack Developer (Java / Modern Web)</b></p>
+  <p><i>Building scalable backend services, reactive frontends and automated Linux environments.</i></p>
+  <p>Open to Internship / Junior opportunities</p>
+
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py,linux,bash,cs,net,svelte,ts&theme=dark" alt="Core Systems Stack" />
+    <img src="https://skillicons.dev/icons?i=java,angular,ts,svelte,py,linux,bash&theme=dark" alt="Core Tech Stack" />
   </a>
+</div>
 
-  <br/><br/>
-  </div>
+<br/>
 
+### <p align = 'center'>📍 [CzyPrzejadę](https://github.com/GonsiorHack/czyPrzejade) </p>
+> Navigation app calculating barrier-free pedestrian routes (avoiding stairs, high curbs, damaged pavement) for wheelchair users and people with reduced mobility.
 
-### 📍 [CzyPrzejadę](https://github.com/GonsiorHack/czyPrzejade) `Path optimalization • AI learning • GIS`
-> **Urban navigation and accessibility app built for people with reduced mobility.**
+- **Mobile App (Flutter):** Cross-platform app (Android/iOS) with **OpenStreetMap**, live GPS navigation with compass orientation, and accessibility features.
+- **Obstacle Detection (AI):** Image classification backend analyzing street photos to detect pavement degradation, curb heights, and physical barriers.
+- **Accessible Routing (GIS):** Integrated barrier weights into open-source routing engines (**Valhalla / OSRM**) to guide users around obstacles via ramps and smooth surfaces.
+- **Self-Hosted Backend:** Dropped commercial map APIs in favor of a custom, open-source map tile and routing stack hosted on Linux.
+---
 
-Mobile platform that evaluates sidewalk quality, rates urban places (A–F accessibility scale), and calculates barrier-free pedestrian routes.
-- **Native Mobile App (Flutter):** Client written in **Flutter (iOS/Android)** with an interactive **OpenStreetMap** view, live GPS navigation with compass/heading rotation, voice dictation, and high-contrast UI modes.
-- **Backend & Obstacle Detection:** Built an asynchronous backend using a **MobileNetV2** model to classify pavement degradation and physical obstacles from street-level photos.
-- **Barrier-Free Routing:** Fed obstacle weights into GIS routing engines (**Valhalla / OSRM / ORS**) to generate safe alternative paths that bypass stairs, high curbs, and damaged surfaces.
-- **Open-Source GIS on Linux:** Replaced paid commercial map APIs with open-source map tiles and routing services deployed on Linux.
-
-
-## 📖 Open Source Contributions & Academic Research
-
-* **[Ladybird Browser Engine](https://github.com/LadybirdBrowser/ladybird)** — Active open-source contributor to this independent browser engine. Translating complex **C++ engine mechanics**, memory subsystems, and parser specifications into structured technical documentation.
-* **<a href="https://ruj.uj.edu.pl/entities/publication/ea7e3ca4-81f3-4a33-9917-4397976f7241">Academic Research (Jagiellonian University)</a>** — Author of peer-reviewed paper *"Toxic Communication in Multiplayer Games: A Polish Player's Perspective"*, applying quantitative data analysis, empirical pattern extraction, and behavioral user profiling.
+- **[Academic Research (Jagiellonian University)](https://ruj.uj.edu.pl/entities/publication/ea7e3ca4-81f3-4a33-9917-4397976f7241)** — Author of the peer-reviewed paper *"Toxic Communication in Multiplayer Games: A Polish Player's Perspective"*, applying quantitative statistical analysis, empirical pattern extraction, and behavioral user modeling.
